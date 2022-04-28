@@ -1,0 +1,2 @@
+# SimpleJavaMavenProjectAzureTrainingExample
+Azure Training
